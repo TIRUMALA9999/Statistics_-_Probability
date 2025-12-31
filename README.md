@@ -4,7 +4,7 @@
 ![Probability](https://img.shields.io/badge/Probability-Distributions%20%7C%20Bayes-green)
 ![Math](https://img.shields.io/badge/Math-Foundations-orange)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Core%20Fundamentals-purple)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-AI-pink)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-AI-violet)
 
 
 
@@ -39,7 +39,7 @@ Statistics_-_Probability-main/
 
 ---
 
-## 🧠 Topics Covered (Detailed)
+## 🧠 Topics Covered
 
 ---
 
@@ -51,8 +51,7 @@ Statistics_-_Probability-main/
 - Shape of distributions: skewness and kurtosis
 - Outliers and their impact on statistical measures
 
-**Interview relevance:**  
-“How do mean and median behave in the presence of outliers?”
+
 
 ---
 
@@ -73,8 +72,6 @@ Statistics_-_Probability-main/
 - Real-world interpretation
 - Applications in classification and decision-making
 
-**Interview relevance:**  
-“Explain Bayes’ theorem with a real-world example.”
 
 ---
 
@@ -101,9 +98,6 @@ Statistics_-_Probability-main/
 - Normal (Gaussian)
 - Exponential
 
-**Interview relevance:**  
-“When do you use Binomial vs Poisson?”  
-“Why is the normal distribution so important?”
 
 ---
 
@@ -134,8 +128,7 @@ Statistics_-_Probability-main/
 - Statistical power
 - One-tailed vs two-tailed tests
 
-**Interview relevance:**  
-“What does a p-value actually represent?”
+
 
 ---
 
@@ -171,7 +164,7 @@ They enable me to **explain model behavior, uncertainty, and evaluation rigorous
 
 ---
 
-## 🧾 Resume Bullet Points (Copy-Paste Ready)
+## 🧾Points
 
 - Built strong foundations in **statistics and probability**, covering descriptive statistics, probability theory, distributions, and inferential methods for data science and machine learning.  
 - Applied **Bayesian reasoning, conditional probability, and distribution theory** to support model evaluation and decision-making in ML workflows.  
@@ -180,7 +173,7 @@ They enable me to **explain model behavior, uncertainty, and evaluation rigorous
 
 ---
 
-## 🧠 Interview Talking Points
+## 🧠 I Points
 
 - “Statistics explains *why* ML models behave the way they do.”
 - “Probability underpins loss functions, evaluation metrics, and uncertainty.”
