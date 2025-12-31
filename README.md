@@ -4,7 +4,7 @@
 ![Probability](https://img.shields.io/badge/Probability-Distributions%20%7C%20Bayes-green)
 ![Math](https://img.shields.io/badge/Math-Foundations-orange)
 ![Data Science](https://img.shields.io/badge/Data%20Science-Core%20Fundamentals-purple)
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-AI-black)
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-AI-pink)
 
 
 
